@@ -13,11 +13,13 @@
                     <span class="title">{{ .Params.name }}</span>
                 </a>
                 <span class="details">
-                    {{ $len := sub (len .Params.items) 1 }}
-                    {{ range $i, $item := .Params.items }}
-                        <a href="{{ $item }}">{{ $item }}</a>
-                        {{ if gt $len $i }} | {{ end }}
-                    {{ end }}
+                    {{ if isset .Params "items"}}
+                        {{ $len := sub (len .Params.items) 1 }}
+                        {{ range $i, $item := .Params.items }}
+                            <a href="{{ $item }}">{{ $item }}</a>
+                            {{ if gt $len $i }} | {{ end }}
+                        {{ end }}
+                    {{end}}
                 </span>
             </div>
         {{ end }}
