@@ -1,0 +1,69 @@
+<div class="row section topspace">
+    <div class="col-md-12">
+        <p class="lead text-center text-muted">
+            I am Cuauhtemoc Moreno, a Creative Coder and Game Designer.
+            <br>I am the Head of Technology at
+            <a href="http://www.soundscouts.com/" style="color:#00aff3;
+                ;">
+                <b>Sound Scouts</b>
+            </a> and currently based in Sydney, Australia.
+        </p>
+        <p class="lead text-center text-muted">
+            I find joy in continously researching and playing with frameworks, technologies and art.
+        </p>
+
+        <p class="lead text-center text-muted">
+            I love
+            <span id="scrollingText" style="color:#ff2e8a;  font-size:1.2em;"> Interactive Art </span>.
+        </p>
+    </div>
+</div>
+<!-- / section -->
+
+<script type="text/javascript" >
+    var changeSpan;
+    var i = 0;
+
+    var hobbies = [
+        'Music',
+        'HTML5',
+        'The Poetics of Space',
+        'Learning',
+        'Art',
+        'Teaching',
+        'Virtual Reality',
+        'The Cosmos',
+        'Unity3D',
+        'Tilemaps',
+        'Reading',
+        'Butterscotch',
+        'Drawing',
+        'Taking Photos',
+        'Making Sounds',
+        'Board games',
+        'Sweetened condensed milk'
+
+    ];
+
+    function changeWord() {
+        changeSpan.textContent = hobbies[i];
+        i++;
+        if (i >= hobbies.length) i = 0;
+    }
+
+    function init() {
+        console.log('initialising scrolling text');
+        changeSpan = document.getElementById("scrollingText");
+        nIntervId = setInterval(changeWord, 950);
+        changeWord();
+    }
+
+    if (document.addEventListener) {
+        init();
+    } else {
+        init();
+    }
+
+
+
+</script>
