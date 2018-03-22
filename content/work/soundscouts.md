@@ -1,6 +1,6 @@
 +++
 name = "Sound Scouts"
-image = "images/CubicDreams.jpg"
+image = "images/projects/SoundScouts.png"
 externalUrl = "https://www.soundscouts.com"
 items = ["health","game"]
 +++
