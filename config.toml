@@ -16,10 +16,10 @@ publishDir = "docs"
     DateForm = "January 2, 2006"
 
     showSubheader = true
-    showServices = false
+    showServices = true
     showRecentWorks = true
-    showDownload = false
-    showClients = false
+    showDownload = true
+    showClients = true
 
     footerEnableContact = true
     footerEnableFollowme = true
