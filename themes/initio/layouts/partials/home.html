@@ -2,25 +2,9 @@
 
 	<div class="container">
 
-        {{ if .Site.Params.showSubheader }}
-            {{ partial "subheader.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.showServices }}
-            {{ partial "services.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.showRecentWorks }}
-            {{ partial "recentworks.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.showDownload }}
-            {{ partial "download.html" . }}
-        {{ end }}
-
-        {{ if .Site.Params.showClients }}
-            {{ partial "clients.html" . }}
-        {{ end }}
+        {{ partial "subheader.html" . }}
+        {{ partial "recentworks.html" . }}
+        {{ partial "services.html" . }}
 
 	</div>	<!-- /container -->
 

@@ -33,6 +33,8 @@ More info: [hugo setup guide](https://gohugo.io/overview/installing/)
 
 
 ```toml
+THESE HAVE BEEN REMOVED
+
 showSubheader = true
 showServices = true
 showRecentWorks = true

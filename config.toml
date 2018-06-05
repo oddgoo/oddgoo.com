@@ -15,12 +15,6 @@ publishDir = "docs"
     favicon = "http://localhost:1313/hugo-initio-site/images/oddgoo_logo_square.png"
     DateForm = "January 2, 2006"
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownload = true
-    showClients = true
-
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = true
