@@ -8,6 +8,7 @@ aliases = [
 	"amberial"
 ]
 category = "games"
+cover = ""
 +++
 
 
