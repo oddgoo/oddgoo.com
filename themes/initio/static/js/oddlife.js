@@ -58,10 +58,10 @@ var Boid = Base.extend({
         
         this.flippers =  new Path({
             strokeColor: '#00aded',
-			strokeWidth: 3,
+			strokeWidth: 1 + Math.random()*3,
         });
         
-        this.flippers.add(new Point(-20,-20));
+        this.flippers.add(new Point(2+(Math.random()*15),0 ) );
         this.flippers.add(new Point(0,0));
         //this.flippers.add(new Point(15,-15));
 
@@ -221,13 +221,14 @@ var Predator = Boid.extend({
         
         this.flippers =  new Path({
             strokeColor: '#ff2e8a',
-			strokeWidth: 4,
+			strokeWidth: 2,
         });
         
-        this.flippers.add(new Point(-25,-25));
-        this.flippers.add(new Point(-25,25));
-        this.flippers.add(new Point(25,25));
-        this.flippers.add(new Point(25,-25));
+        this.flippers.add(new Point(-5,-5));
+		this.flippers.add(new Point(0,5));
+		this.flippers.add(new Point(8,0));
+		this.flippers.add(new Point(3,-5));
+
         //this.flippers.add(new Point(15,-15));
         
         this.type=1;
