@@ -3,11 +3,12 @@ date = "1970-01-01T11:00:00+11:00"
 draft = false
 title = "A Trashy Love Story"
 slug = "a-trashy-love-story"
-image = "trashy.png"
+image = "images/thumbnails/trashy/trashy.png"
 aliases = [
 	"a-trashy-love-story"
 ]
 category = "games"
+weight = 2
 +++
 ![trashy love screenshot 1](http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/cover.png)
 

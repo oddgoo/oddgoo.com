@@ -1,7 +1,7 @@
 +++
 date = "1970-01-01T11:00:00+11:00"
 draft = false
-title = "Amberialites: The Tower Of Endurance"
+title = "Amberialites"
 slug = "amberial"
 image = "http://oddgoo.io.s3.amazonaws.com/covers/Amberialites.jpg"
 aliases = [
