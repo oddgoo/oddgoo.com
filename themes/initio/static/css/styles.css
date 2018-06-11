@@ -11,6 +11,12 @@ body {
 .topspace {
   margin-top: 40px;
 }
+.blue{
+  color:#00aff3;
+}
+.pink{
+  color: #ff2e8a;
+}
 /*********************************************************************
 
 
@@ -384,8 +390,7 @@ img {
 .thumbnails .details {
   display: block;
   text-align: center;
-  font-size: 12px;
-  font-size: 0.75rem;
+  font-size: 0.95rem;
   margin-bottom: 40px;
 }
 .thumbnail {
@@ -407,17 +412,25 @@ img {
   display: block;
   width: 100%;
   overflow: hidden;
-  height: 280px;
+  height: 200px;
   margin: 0 0 20px;
   position: relative;
+  text-align: center;
 }
 @media only screen and (max-width: 768px) {
   .thumbnail .img {
-    width: calc(100% + 30px);
-    height: 280px;
-    margin-left: -15px;
+    width: 100%;
+    height: 190px
+   /* margin-let: -15px;*/
   }
 }
+.thumbnail img {
+  position: relative;
+  width: 346px;
+  max-width: auto;
+
+}
+
 .thumbnail .title {
   text-transform: uppercase;
   margin: 0 2em;
@@ -466,12 +479,7 @@ img {
   background: #bd1550;
   color: white;
 }
-.thumbnail img {
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
+
 .thumbnail:hover {
   color: #333;
   text-decoration: none;

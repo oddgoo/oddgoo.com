@@ -5,12 +5,12 @@
     <div class="thumbnails recentworks">
         {{ range (where (where .Data.Pages.ByDate "Section" "work") ".Params.featured" "true") }}
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-                <a class="thumbnail" href="{{ .Params.externalUrl }}">
+                <a class="thumbnail" href="{{ .Params.externalUrl }}" target="_blank">
                     <span class="img">
                         <img src="{{ .Params.image }}" alt="">
-                        <span class="cover"><span class="more">See details &rarr;</span></span>
+                        <span class="cover"><span class="more">Open in new tab &rarr;</span></span>
                     </span>
-                    <span class="title">{{ .Params.name }}</span>
+                    <span class="title pink" >{{ .Params.name }}</span>
                 </a>
                 <span class="details">
                     {{ if isset .Params "items"}}
@@ -20,6 +20,7 @@
                             {{ if gt $len $i }} | {{ end }}
                         {{ end }}
                     {{end}}
+                    {{ .Params.synopsis }}
                 </span>
             </div>
         {{ end }}
