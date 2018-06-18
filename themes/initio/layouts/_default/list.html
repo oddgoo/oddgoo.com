@@ -14,10 +14,11 @@
 						</div>
 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
-					<div class="entry-content">
+						<div class="entry-content">
 						
-						{{ .Content }}
-					</div>
+						<!--<{{ .Content }}-->
+							<img src="{{.Params.image}}">
+						</div>
 				</article>
                 {{ end }}
 

@@ -5,14 +5,33 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+<!--<div style="display:block; text-align: center">
+<img src="../images/about/avatar_a.jpg">
+</div><br>-->
 
-![about](../images/mac.jpg)
+I am a Creative Developer and Game Designer with 10+ years of experience  experience in a wide range of digital award-winning projects.  From popular browser games, to physical installations involving full-body motion; from virtual reality experiences to playful educational ebooks. 
 
-### Necessitatibus
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+I am currently based in Sydney, Australia as the CTO of Sound Scouts since 2015, where I thrive by being in the intersection of art, technology and positve social impact.
 
-### Fugit, laboriosam
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+My work and collaborations have been featured by awards and events such as **SXSW**, the **Independent Games Festival**, and the **Tokyo Game Show**.
+
+
+### Education
+
+
+**Bachelor's Degree in Information Technology**<br>
+Universidad de Guadalajara, Mexico
+
+**Advanced Diploma in Informatics**<br>
+Centro de Enseñanza Técnica Industrial, Guadalajara México
+
+**Diploma in Digital Media**<br>
+Techincal and Further Education (TAFE), Sydney Australia
+
+**Certificate IV in Digital Media**<br>
+Techincal and Further Education (TAFE), Sydney Australia
+
+
+![about](../images/about/paddle.jpg)
