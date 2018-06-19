@@ -1,4 +1,4 @@
-baseURL = "https://www.oddgoo.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "oddgoo.com"
 theme = "initio"
