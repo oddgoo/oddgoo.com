@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "https://www.oddgoo.com"
 languageCode = "en-us"
 title = "oddgoo.com"
 theme = "initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = " "
@@ -37,7 +37,7 @@ publishDir = "docs"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-47737540-2"
 
 [[params.social]]
 	title = "facebook"
