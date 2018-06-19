@@ -12,7 +12,7 @@ publishDir = "public"
     address = " "
     year = 2017
     background = ""
-    favicon = "http://localhost:1313/hugo-initio-site/images/oddgoo_logo_square.png"
+    favicon = "/oddgoo_logo_square.png"
     DateForm = "January 2, 2006"
 
     footerEnableContact = true
