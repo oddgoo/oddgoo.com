@@ -198,10 +198,10 @@ h5 {
   font-size: 1.25rem;
 }
 a {
-  color: #bd1550;
+  color: #00aff3;
 }
 a:hover {
-  color: #e93675;
+  color: #ff2e8a;
 }
 .lead {
   font-weight: 300;
@@ -804,11 +804,12 @@ footer.entry-meta .meta-in {
   margin: 0;
 }
 .follow-me-icons {
-  font-size: 30px;
+  text-align: center;
+  font-size: 50px;
 }
 .follow-me-icons i {
-  padding: 15px 0;
-  margin: 0 10px 0 0;
+  padding: 0px 0;
+  margin: 0 20px 0 20px;
 }
 /* Max page width
 /////////////////////////////////////////////////////////////////////*/
