@@ -1,0 +1,6 @@
+-Severely compress images.
+-add contact/social details on footer at all times
+-animated oddgoo logo
+-content for projects
+-dynamic external or internal link system
+-Paper loading performance
