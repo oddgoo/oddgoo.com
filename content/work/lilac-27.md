@@ -1,5 +1,5 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 8
 draft = false
 title = "Lilac.27"
 slug = "lilac-27"
@@ -7,6 +7,10 @@ image = "http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/3.PNG"
 aliases = [
 	"lilac-27"
 ]
+items = ["Game Jam"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.youtube.com/watch?v=Q2dC9wuz-zI"
+
 +++
 
 

@@ -1,14 +1,18 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 10
+
 draft = false
 title = "Amberialites"
 slug = "amberial"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/Amberialites.jpg"
+image = "images/thumbnails/Amberialites.jpg"
 aliases = [
 	"amberial"
 ]
 category = "games"
 cover = ""
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.kongregate.com/games/oddgoo/amberialites-the-tower-of-endurance"
 +++
 
 

@@ -7,6 +7,9 @@ image = "http://oddgoo.io.s3.amazonaws.com/covers/Shape-a-licious.jpg"
 aliases = [
 	"shape-a-licious"
 ]
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "http://www.kongregate.com/games/oddgoo/shape-a-licious"
 +++
 
 [Play it on Kongregate](http://www.kongregate.com/games/oddgoo/shape-a-licious)

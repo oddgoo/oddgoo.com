@@ -8,6 +8,8 @@ aliases = [
 	"sharks-superpredators"
 ]
 category = "app"
+items = ["Mobile app","Educational"]
+synopsis = "Development, client project"
 +++
 Participated as the coder. Specially rewarding was the development of a 3D parallax effect that uses the accelerometer.
 

@@ -5,22 +5,26 @@
     <div class="thumbnails recentworks">
         {{ range (where (where .Data.Pages.ByDate "Section" "work") ".Params.featured" "!=" "true") }}
             <div class="col-xs-6 col-sm-4 col-md-4 col-lg-4">
-                <span class="thumbnail" href="{{ .Params.externalUrl }}" target="_blank">
+                <a class="thumbnail"  href="{{ .Params.externalUrl }}" target="_blank">
                     <span class="img">
-                        <img src="{{ .Params.image }}" alt="">
-                        <span class="cover"><span class="more">Open in new tab &rarr;</span></span>
+                        <img src="{{ .Params.image }}" alt="{{ .Params.title }}"> 
+                        <span class="cover" ><span class="more">Open in new tab &rarr;</span>
+                        </span>
                     </span>
-                    <span class="title" >{{ .Params.title }}</span>
-                </span>
+                    <span class="title pink" >{{ .Params.title }}</span>
+                </a>
                 <span class="details">
-                    {{ if isset .Params "items"}}
+                    <span>
+
+                        {{ if isset .Params "items"}}
                         {{ $len := sub (len .Params.items) 1 }}
                         {{ range $i, $item := .Params.items }}
-                            <span href="{{ $item }}">{{ $item }}</span>
-                            {{ if gt $len $i }} | {{ end }}
+                        <span href="{{ $item }}" class="blue">{{ $item }}</span>
+                        {{ if gt $len $i }} | {{ end }}
                         {{ end }}
-                    {{end}}
-                    {{ .Params.synopsis }}
+                        {{end}}</br>
+                    </span>
+                    <span style="color: #888888;">{{ .Params.synopsis }}</span>
                 </span>
             </div>
         {{ end }}

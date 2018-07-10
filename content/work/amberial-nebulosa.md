@@ -1,5 +1,5 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 7
 draft = false
 title = "Amberial: Nebulosa Realms"
 slug = "amberial-nebulosa"
@@ -7,6 +7,9 @@ image = "http://oddgoo.io.s3.amazonaws.com/covers/AmberialNebulosa/2.PNG"
 aliases = [
 	"amberial-nebulosa"
 ]
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.kongregate.com/games/oddgoo/amberial-nebulosa-realms"
 +++
 A sequel to Amberial, this is the most played game I have made. Before Mochibot closed down, it had registered more than 2 million gameplays across the web.
 

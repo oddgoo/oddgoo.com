@@ -1,6 +1,10 @@
 +++
-date = "2017-04-26T13:26:32Z"
+
 title = "Insurgio"
 image = "images/thumbnails/Insurgio.jpeg"
+
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.kongregate.com/games/oddgoo/insurgio"
 +++
 

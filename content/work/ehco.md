@@ -1,5 +1,5 @@
 +++
-date = "1984-01-01T11:00:00+11:00"
+weight = 5
 draft = false
 title = "ehco"
 slug = "ehco"
@@ -8,6 +8,10 @@ aliases = [
 	"ehco"
 ]
 category = "gamejam"
+items = ["Game Jam"]
+synopsis = "Design & Development, team project"
+externalUrl = "https://globalgamejam.org/2014/games/ehco"
+
 +++
 ![ehco_screenshot](http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_2.JPG)
 

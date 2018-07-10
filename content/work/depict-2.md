@@ -1,12 +1,15 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 12
 draft = false
 title = "Depict"
 slug = "depict-2"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/Depict/1.png"
+image = "images/thumbnails/depict.png"
 aliases = [
 	"depict-2"
 ]
+items = ["Game concept"]
+synopsis = "Design, team project"
+weight = 11
 +++
 [IGF 2009 Mobile Finalist](http://www.igfmobile.com/php-bin/entry2009.php?id=897)
 

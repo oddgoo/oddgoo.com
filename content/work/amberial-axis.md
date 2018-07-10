@@ -1,13 +1,20 @@
 +++
-date = "1980-01-01T11:00:00+11:00"
+
+weight = 4
 draft = false
 title = "Amberial Axis"
 slug = "amberial-axis"
+
 image = "http://oddgoo.io.s3.amazonaws.com/covers/AmberialAxis.jpg"
 aliases = [
 	"amberial-axis"
 ]
 category = "games"
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.kongregate.com/games/oddgoo/amberial-axis"
+
+
 +++
 Sequel to Amberial with a level editor. Made with Flash and the Box2D engine.
 

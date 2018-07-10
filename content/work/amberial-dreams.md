@@ -6,10 +6,10 @@ image = "images/featured/AmberialDreams.png"
 cover = ""
 featured = "true"
 externalUrl = "http://www.amberial.com"
-synopsis = "A cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds"
+synopsis = "Play in a cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds"
 +++
 
-A cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds.
+Play in a cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds.
 
 *Features*
 - Local Multiplayer (up to 8 people)

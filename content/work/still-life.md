@@ -8,6 +8,9 @@ aliases = [
 	"still-life"
 ]
 category = "gamejam"
+items = ["Game Jam"]
+synopsis = "Design & Development, team project"
+externalUrl = "https://www.youtube.com/watch?v=HM8LWjbcRp4"
 +++
 
 Winner of the 2012 Sydney Chapter Molyjam competition.

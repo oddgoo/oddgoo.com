@@ -1,8 +1,10 @@
 +++
-
+weight = 3
 title = "Nicabate Minis"
 categories = [ "Featured","Client Work" ]
-date = "2017-04-26T13:12:02Z"
+
 image = "images/thumbnails/Nicabate.jpg"
+items = ["Installation","Physical game"]
+synopsis = "Development, client project"
 +++
 

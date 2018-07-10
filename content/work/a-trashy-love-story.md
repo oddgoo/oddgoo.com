@@ -1,5 +1,5 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 3
 draft = false
 title = "A Trashy Love Story"
 slug = "a-trashy-love-story"
@@ -8,7 +8,10 @@ aliases = [
 	"a-trashy-love-story"
 ]
 category = "games"
-weight = 2
+
+items = ["Web game"]
+synopsis = "Design & Development, own project"
+externalUrl = "https://www.kongregate.com/games/oddgoo/a-trashy-love-story"
 +++
 ![trashy love screenshot 1](http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/cover.png)
 

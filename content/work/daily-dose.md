@@ -1,5 +1,5 @@
 +++
-date = "1970-01-01T11:00:00+11:00"
+weight = 9
 draft = false
 title = "Daily Dose"
 slug = "daily-dose"
@@ -8,6 +8,8 @@ aliases = [
 	"daily-dose"
 ]
 category = "games"
+items = ["Mobile game"]
+synopsis = "Art & Development. cmee4 Productions"
 +++
 A puzzle platformer about post-scarcity corporatism and coffee. In space.
 
