@@ -9,7 +9,7 @@ aliases = [
 ]
 items = ["Game concept"]
 synopsis = "Design, team project"
-weight = 11
+
 +++
 [IGF 2009 Mobile Finalist](http://www.igfmobile.com/php-bin/entry2009.php?id=897)
 
