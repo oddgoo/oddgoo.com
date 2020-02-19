@@ -12,11 +12,21 @@ weight = 10
 I am a Creative Developer and Game Designer with 10+ years of experience  experience in a wide range of digital award-winning projects.  From popular browser games, to physical installations involving full-body motion; from virtual reality experiences to playful educational ebooks. 
 
 
-I am currently based in Sydney, Australia as the CTO of Sound Scouts since 2015, where I thrive by being in the intersection of art, technology and positve social impact.
+I am currently based in Sydney, Australia as the CTO of Sound Scouts since 2015, where I thrive by being in the intersection of art, technology and social impact.
 
 
-My work and collaborations have been featured by awards and events such as **SXSW**, the **Independent Games Festival**, and the **Tokyo Game Show**.
+### Awards
+Sound Scouts has received numerous awards, including:
 
+ - **Winner**, Digital Health, Impact Pediatric Health Competition, SXSW Austin, Texas 2019
+ - **Semi-Finalist**, Australian Technologies Competition 2018
+ - **Data Innovation**, Award Winner Best Startup 2017
+
+Other Projects:
+
+ - **SimuSurg** (winner of the Australasian Serious Game Challenge, 2018),
+ - **Depict** (Finalist at the 2009 Independent Game Festival's "Next Great Mobile Game" category)
+ - **Amberial** (Winner of several flash game contest in the late 2000's.  
 
 ### Education
 
@@ -34,4 +44,4 @@ Techincal and Further Education (TAFE), Sydney Australia
 Techincal and Further Education (TAFE), Sydney Australia
 
 
-![about](../images/about/paddle.jpg)
+![about](../images/about/avatar_a.jpg)
