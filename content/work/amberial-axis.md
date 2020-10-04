@@ -5,7 +5,7 @@ draft = false
 title = "Amberial Axis"
 slug = "amberial-axis"
 
-image = "http://oddgoo.io.s3.amazonaws.com/covers/AmberialAxis.jpg"
+image = "/images/thumbnails/AmberialAxis.jpg"
 aliases = [
 	"amberial-axis"
 ]

@@ -3,7 +3,7 @@ weight = 7
 draft = false
 title = "Amberial: Nebulosa Realms"
 slug = "amberial-nebulosa"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/AmberialNebulosa/2.PNG"
+image = "/images/thumbnails/nebulosa.png"
 aliases = [
 	"amberial-nebulosa"
 ]

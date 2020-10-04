@@ -3,7 +3,7 @@ date = "2016-07-01T11:00:00+11:00"
 draft = false
 title = "Dreaming in Eorzea: thoughts on Final Fantasy XIV"
 slug = "memoir-final-fantasy-xiv"
-image = "http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_1.jpg"
+image = "/images/blog/ffxiv/Memoir.jpg"
 aliases = [
 	"memoir-final-fantasy-xiv"
 ]
@@ -11,7 +11,7 @@ category = "blog"
 +++
 
 
-![FFXIV Screenshot 1](http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_3.jpg)
+![FFXIV Screenshot 1](/images/blog/ffxiv/ffxiv_2.jpg)
 
 [This piece has been featured on Gamasutra [here](http://www.gamasutra.com/blogs/CuauhtemocMoreno/20150129/233912/Dreaming_in_Eorzea_thoughts_on_Final_Fantasy_XIV.php)]
 
@@ -27,7 +27,7 @@ So I put down my [Mythril round knife](http://xivdb.com/?item/2426/Mythril-Round
 
 #### On roaming the lands
 
-![FFXIV Screenshot 1](http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_1.jpg)
+![FFXIV Screenshot 1](/images/blog/ffxiv/Memoir.jpg)
 
 Exploring [Eorzea](https://www.youtube.com/watch?v=RadO-Lr9_q4) is initially fantastic because the world has been crafted with incredible love and attention to detail. Whereas other games feature sprinkles of landmarks on a heightmap, FFXIV is the inside of a beautifully designed aquarium. Everything fits naturally in its environment: paths carved by the flora and fauna; visible effects of erosion; rivers, ravines, mountains, and meadows; architecture that dances with the nature around it; and a great use of verticality, layers, and the scars of a world hurt by a cataclysm.
 
@@ -52,7 +52,7 @@ In short, I wish the living parts of the game tried to be as imaginative as the 
 
 #### On grinding
 
-![FFXIV Screenshot 1](http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_2.jpg)
+![FFXIV Screenshot 1](/images/blog/ffxiv/ffxiv_3.jpg)
 
 > *"Backbreakin', arse-bustin' work, it is. But seein' me vessels ridin' the winds, soarin' off to far lands where me legs will never carry me - well, at least me sweat and blood ain't been for naught, eh?"* 
 
@@ -63,13 +63,13 @@ I have weird ideas; I want to grind in all the crafting and gathering classes ju
 
 I think one of the reasons is that travelling, or going through a dungeon, involves a narrative dictated by its environment and gameplay sequences, which usually culminates in a climax. On the fifth time of going through it, I feel offended because I have already been sold this story arc, this struggle, this "epic" conclusion; the game is not only killing the feeling of awe and exploration, it's insulting it.
 
-I decide that I will enjoy what the world has to offer in a different way; there too much wonder and beauty here to simply dismiss the content, but I want to look at it with my own eyes.
+I decide that I will enjoy what the world has to offer iKn a different way; there too much wonder and beauty here to simply dismiss the content, but I want to look at it with my own eyes.
 
 
 
 #### On being someone
 
-![FFXIV Screenshot 1](http://oddgoo.io.s3.amazonaws.com/posts/ffxiv/ffxiv_4.jpg)
+![FFXIV Screenshot 1](/images/blog/ffxiv/ffxiv_4.jpg)
 
 When I play a game or consume any media, there is a conversation between me, the piece, and its creators. In my head, the three of us sit in a room and share ideas, stories and emotions; in that way, I enjoy games mostly for the beauty that happens in the intersection of my imagination with that of the creators.
 

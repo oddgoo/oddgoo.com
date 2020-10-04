@@ -3,7 +3,7 @@ date = "1970-01-01T11:00:00+11:00"
 draft = false
 title = "Shape-a-licious"
 slug = "shape-a-licious"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/Shape-a-licious.jpg"
+image = "images/thumbnails/shapealicious/Shape-a-licious (1).jpg"
 aliases = [
 	"shape-a-licious"
 ]

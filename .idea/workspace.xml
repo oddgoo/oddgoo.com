@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4f65880-46f7-4710-8747-a85553a78428" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/sharks-superpredators.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/sharks-superpredators.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/thumbnails/sharks/screen480x480 (1).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/thumbnails/sharks/screen480x480 (2).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/thumbnails/sharks/screen480x480 (3).jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/thumbnails/sharks/screen480x480.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/initio/layouts/partials/allworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/initio/layouts/partials/allworks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/initio/layouts/partials/recentworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/initio/layouts/partials/recentworks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/post/dreaming-in-eorzea.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/dreaming-in-eorzea.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/amberial-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/amberial-axis.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-axis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/amberial-nebulosa.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-nebulosa.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/daily-dose.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/daily-dose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/ehco.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/ehco.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/lilac-27.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/lilac-27.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/shape-a-licious.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/shape-a-licious.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/still-life.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/still-life.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,35 +24,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1Y1Q0Kkt5hQkpiDBRQon4gSDe6F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,10 +59,22 @@
       <workItem from="1521572933452" duration="1770000" />
       <workItem from="1521576996344" duration="1219000" />
       <workItem from="1582107399524" duration="1771000" />
+      <workItem from="1601800116115" duration="298000" />
+      <workItem from="1601800422943" duration="1947000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="350" key="SettingsEditor" timestamp="1601800127372">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="782" y="350" key="SettingsEditor/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601800127372" />
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1601803015085">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601803015085" />
   </component>
 </project>

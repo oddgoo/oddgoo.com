@@ -3,7 +3,7 @@ weight = 8
 draft = false
 title = "Lilac.27"
 slug = "lilac-27"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/Lilac.27/3.PNG"
+image = "/images/thumbnails/lilac.png"
 aliases = [
 	"lilac-27"
 ]

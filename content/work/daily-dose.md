@@ -3,7 +3,7 @@ weight = 9
 draft = false
 title = "Daily Dose"
 slug = "daily-dose"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/DailyDose/1.jpg"
+image = "/images/thumbnails/dailydose.jpg"
 aliases = [
 	"daily-dose"
 ]

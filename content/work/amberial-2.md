@@ -3,7 +3,7 @@ weight = 11
 draft = false
 title = "Amberial"
 slug = "amberial-2"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/Amberial.jpg"
+image = "https://img.itch.zone/aW1hZ2UvNjkxNjU4LzM4MTQwMDMucG5n/347x500/X3cE5k.png"
 aliases = [
 	"amberial-2"
 ]
