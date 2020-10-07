@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f65880-46f7-4710-8747-a85553a78428" name="Default" comment="">
+    <list default="true" id="d4f65880-46f7-4710-8747-a85553a78428" name="Default" comment="-Fixed images">
+      <change afterPath="$PROJECT_DIR$/content/work/ecg.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/dreaming-in-eorzea.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/dreaming-in-eorzea.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/amberial-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/amberial-axis.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-axis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/amberial-nebulosa.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/amberial-nebulosa.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/daily-dose.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/daily-dose.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/a-trashy-love-story.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/a-trashy-love-story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/cometogether.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/cometogether.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/work/ehco.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/ehco.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/lilac-27.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/lilac-27.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/shape-a-licious.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/shape-a-licious.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/work/still-life.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/still-life.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/simusurg.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/simusurg.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/work/visionboard-vr.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/work/visionboard-vr.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/initio/layouts/partials/recentworks.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/initio/layouts/partials/recentworks.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +59,46 @@
       <workItem from="1521576996344" duration="1219000" />
       <workItem from="1582107399524" duration="1771000" />
       <workItem from="1601800116115" duration="298000" />
-      <workItem from="1601800422943" duration="1947000" />
+      <workItem from="1601800422943" duration="2582000" />
+      <workItem from="1602107794216" duration="1302000" />
     </task>
+    <task id="LOCAL-00001" summary="-Fixed images">
+      <created>1601803185620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601803185620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-Fixed images" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Fixed images" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="910" y="273" key="CommitChangelistDialog2" timestamp="1601803185212">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="910" y="273" key="CommitChangelistDialog2/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601803185212" />
     <state x="782" y="350" key="SettingsEditor" timestamp="1601800127372">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="782" y="350" key="SettingsEditor/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601800127372" />
-    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1601803015085">
+    <state x="873" y="438" key="Vcs.Push.Dialog.v2" timestamp="1601803200518">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
-    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601803015085" />
+    <state x="873" y="438" key="Vcs.Push.Dialog.v2/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1601803200518" />
+    <state x="987" y="304" width="587" height="801" key="find.popup" timestamp="1602108825123">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="987" y="304" width="587" height="801" key="find.popup/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1602108825123" />
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1602109104174">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1034/0.0.2560.1409@0.0.2560.1409" timestamp="1602109104174" />
   </component>
 </project>

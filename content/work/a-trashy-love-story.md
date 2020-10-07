@@ -10,7 +10,7 @@ aliases = [
 category = "games"
 
 items = ["Web game"]
-synopsis = "Design & Development, own project"
+synopsis = "A platformer about a relationship"
 externalUrl = "https://www.kongregate.com/games/oddgoo/a-trashy-love-story"
 +++
 ![trashy love screenshot 1](http://oddgoo.io.s3.amazonaws.com/covers/trashyLove/cover.png)

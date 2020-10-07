@@ -1,9 +1,9 @@
 +++
-weight = 5
+weight = 2
 draft = false
 title = "ehco"
 slug = "ehco"
-image = "http://oddgoo.io.s3.amazonaws.com/covers/ehco/ehco_2.JPG"
+image = "/images/thumbnails/ehco_2.JPG"
 aliases = [
 	"ehco"
 ]
