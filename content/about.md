@@ -32,7 +32,7 @@ Other Projects:
 ### Talks and Presentations
 
 **Domains in Play. Game Design meets DDD** <br>
-*Upcoming 2024*. Domain-Driven Design Australia.
+*2024*. Domain-Driven Design Australia.
 
 **The Use and Potential of Games in learning processes** <br>
 *2022*. Online Presentation. University of Guadalajara
