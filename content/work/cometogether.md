@@ -1,7 +1,7 @@
 +++
 name = "Come Together"
 title = "Come Together"
-weight = 2
+weight = 3
 image = "images/featured/ComeTogether.gif"
 cover = ""
 items = ["Game Jam"]
