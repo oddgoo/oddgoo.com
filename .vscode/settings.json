@@ -1,0 +1,6 @@
+{
+    "ipynb.pasteImagesAsAttachments.enabled": true,
+    "markdown.copyFiles.destination": {
+        "**/*": "/static/images/post_media/${fileName}"
+    }
+}
