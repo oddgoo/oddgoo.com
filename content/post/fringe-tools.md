@@ -85,6 +85,13 @@ Oquonie, a game for the Uxn system.
 ![Hundred Rabbits](/images/post_media/rabbits2.png)
 Hundred Rabbits
 
+## Bipsi
+
+TBE
+
+![Bipsi official screenshot](https://kool.tools/blog/media/bipsi-005.png)
+
+
 ## Retroachievements
 
 In her book "Refuse to choose", Barbara Sher writes:
@@ -93,16 +100,20 @@ In her book "Refuse to choose", Barbara Sher writes:
 
 She is talking about types of people that she calls "Scanners", those who thrive by constantly hopping around interests, projects, jobs and activities until they have learned enough, and then move on to the next. In games, this translates to me always having an interest in most genres, all sorts of experiences, and enjoying the vast variety of the medium enough to make a career out of it.
 
-And with achievements, I get an automatic log of this exploration and dilettantism, the same type of satisfaction I'd get from a travel journal, a trophy cupboard and a game passport. A feeling that pushing through and challenging myself is worth it and contributes to something bigger, even if it is still an illusion.
-Now of course, at the very core of achievement systems, there is still the very simple endorphin-inducing DING, the child-like gold star, the endorphin rush of putting a tick on a checkbox. And this has been abused commercially by most major platforms since the xbox 360 for "customer retention".
+And with achievements, I get an automatic log of this exploration and dilettantism, the same type of satisfaction I'd get from a travel journal, a trophy cupboard and a game passport.
+Now of course, at the very core of achievement systems, there is still the very simple endorphin-inducing DING, the child-like gold star, the endorphin rush of putting a tick on a checkbox. And this has been abused commercially by most major platforms since the xbox 360 for the purposes of "customer retention".
 
 But then, there is Retroachievements.
 True to its name, it is at the core an online platform that hooks on to emulators and adds achievement support to 50+ consoles, from the Fairchild Channel F to the PSP. 
-It is a community built on open source tools, with grassroots organisation, a large amount of contributors, and a strict not-for-profit approach.
+It is a community built on open source tools, with grassroots organisation, a large amount of contributors, and a strict not-for-profit approach. It is the spirit of remixing, of taking an existing game, a piece of work, and making another game on top, a new interpretation. 
 
-I've been enjoying this site and system so much since discovering it, that I've now learned how to dig for memory addresses and develop my own achievement sets for others to complete.
+![Retroachievements screenshot, memory digging](/images/post_media/image-5.png)
 
-And even if at the surface it still seems superficial , the amount of participation and user content has now added a layer of game archival and historic preservation layer to it, in the forms of guides, discussions, and the surfacing of obscure systems and titles.
+I've been enjoying this site and system so much since discovering it, that I've now learned how to dig for memory addresses and develop my own achievement sets.
+
+And even if at the surface it all still seems superficial, the amount of participation and user content has now added a layer of game archival and historic preservation layer to it, in the forms of guides, discussions, and the surfacing of obscure systems and titles.
+
+![Retroachievements screenshot, new sets](/images/post_media/image-6.png)
 
 
 ## GBStudio
@@ -115,6 +126,7 @@ GB Studio stands out as making Gameboy (and GB Color) development not only acces
 
 Similar to other tools showcased here, the limitations of the system are cozy and creative fuels; but the ability to take your game, flash it on a cart, and play it on the same system that you may have had for 30 years adds another layer of magic.
 
+![GBStudio, official screenshot](https://www.gbstudio.dev/img/home/screenshot_win_1_v3.png)
 
 
 
