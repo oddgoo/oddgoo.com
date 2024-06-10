@@ -69,7 +69,7 @@ With it, I made "Matchbox Memories". I've described it simply as follows:
 *I love carrying worlds and memories in my pocket.*  
 *Can you find all red flowers by playing around with the scene?*
 
-![Screenshot of Matchbox Memories](../../static/images/post_media/matchbox_memories_cover.png)
+![Screenshot of Matchbox Memories](/images/post_media/matchbox_memories_cover.png)
 
 ## Uxn
 ![Uxn emulator screenshot](/images/post_media/image-3.png)
