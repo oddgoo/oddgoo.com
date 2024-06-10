@@ -64,10 +64,8 @@ Having played with PICO-8 in the past, this time I wanted to venture further and
 
 It seems like a clone at first, but it's open source, is a bit more customisable, and has native Android support. And what is creativity if not remixing and iteration?
 
-With it, I made "Matchbox Memories". I've described it simply as follows:
-
+With it, I made "Matchbox Memories":
 *I love carrying worlds and memories in my pocket.*  
-*Can you find all red flowers by playing around with the scene?*
 
 ![Screenshot of Matchbox Memories](/images/post_media/matchbox_memories_cover.png)
 
