@@ -92,17 +92,10 @@ TBE
 
 ## Retroachievements
 
-In her book "Refuse to choose", Barbara Sher writes:
-
-“You might find the perfect combination of all your interests and have a very enjoyable career. Or you might discover that what you really love is learning itself.”
-
-She is talking about types of people that she calls "Scanners", those who thrive by constantly hopping around interests, projects, jobs and activities until they have learned enough, and then move on to the next. In games, this translates to me always having an interest in most genres, all sorts of experiences, and enjoying the vast variety of the medium enough to make a career out of it.
-
-And with achievements, I get an automatic log of this exploration and dilettantism, the same type of satisfaction I'd get from a travel journal, a trophy cupboard and a game passport.
-Now of course, at the very core of achievement systems, there is still the very simple endorphin-inducing DING, the child-like gold star, the endorphin rush of putting a tick on a checkbox. And this has been abused commercially by most major platforms since the xbox 360 for the purposes of "customer retention".
+At the very core of achievement systems, there is still the very simple endorphin-inducing DING, the child-like gold star, the endorphin rush of putting a tick on a checkbox. And this has been abused commercially by most major platforms since the xbox 360 for the purposes of "customer retention".
 
 But then, there is Retroachievements.
-True to its name, it is at the core an online platform that hooks on to emulators and adds achievement support to 50+ consoles, from the Fairchild Channel F to the PSP. 
+True to its name, it is an online platform that hooks on to emulators and adds achievement support to 50+ consoles, from the Fairchild Channel F to the Playstation Portable.
 It is a community built on open source tools, with grassroots organisation, a large amount of contributors, and a strict not-for-profit approach. It is the spirit of remixing, of taking an existing game, a piece of work, and making another game on top, a new interpretation. 
 
 ![Retroachievements screenshot, memory digging](/images/post_media/image-5.png)
