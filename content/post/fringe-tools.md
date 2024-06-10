@@ -120,7 +120,7 @@ And even if at the surface it all still seems superficial, the amount of partici
 
 It tickles, the ability to produce a ROM for a system that represented the ultimate gaming machine in the days of childhood. 
 
-I have not yet made a game with these tools, but I've explored the ecosystem and played many of its titles.
+I have not yet made a game with it, but I've explored the ecosystem and played many of its titles.
 
 GB Studio stands out as making Gameboy (and GB Color) development not only accessible, but easy and fun. Focusing on a few genres, and allowing itself to be opened up for further modding, anyone can have a true game-boy compatible game.
 
