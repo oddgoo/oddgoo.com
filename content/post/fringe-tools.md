@@ -15,6 +15,8 @@ This post is an ongoing exploration of fantasy consoles, exotic game engines/too
 
 After years of working on commercial projects and using game methodology in other fields, I am conceptualising this endeavor as an artistic and playful respite, unburdened (as much as I possibly can) from external motivations such as commercial plausibility and critical reception.
 
+For a super comprehensive list, check out Everest Pipkin's tool list: https://github.com/everestpipkin/tools-list. Otherwise, this piece is more about my personal experience as I navigate and use a small selection of them.
+
 ## Arduboy
 
 ![alt text](/images/post_media/image.png)
@@ -85,10 +87,18 @@ Hundred Rabbits
 
 ## Bipsi
 
-TBE
-
 ![Bipsi official screenshot](https://kool.tools/blog/media/bipsi-005.png)
 
+An offshoot of Bitsy (https://bitsy.org/) "a little engine for little games, worlds, and stories".
+
+Bipsi is linked by Bitsy on the "Friends of Bitsy Page" https://bitsy.org/friends.html.
+And to me, this represents a lot of the beauty of these small tools and communities. There is remixing and collaboration instead of competition and litigation.   
+
+Can you imagine a world where Unity had a "Friends of Unity" page that linked to other engines and open source tools and extensions?
+
+This represents a lot of the beauty of these small and mostly open source tools and communities. 
+
+With bipsi, I'm making "Places from my dreams" for a small game jam.
 
 ## Retroachievements
 
@@ -119,5 +129,8 @@ Similar to other tools showcased here, the limitations of the system are cozy an
 
 ![GBStudio, official screenshot](https://www.gbstudio.dev/img/home/screenshot_win_1_v3.png)
 
+## More links and inspiration
 
+Natalie Lawhead's Blog:
+https://www.nathalielawhead.com/candybox/the-wonderful-world-of-tools-made-by-small-teams-solo-devs-and-shareware-weird-beautiful-and-experimental-things-to-be-creative-in-an-analysis-on-building-for-approachability
 
