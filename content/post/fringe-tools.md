@@ -85,9 +85,11 @@ Oquonie, a game for the Uxn system.
 ![Hundred Rabbits](/images/post_media/rabbits2.png)
 Hundred Rabbits
 
-## Bipsi
+## bipsi
 
 ![Bipsi official screenshot](https://kool.tools/blog/media/bipsi-005.png)
+
+https://kool.tools/bipsi/
 
 An offshoot of Bitsy (https://bitsy.org/) "a little engine for little games, worlds, and stories".
 
@@ -95,8 +97,6 @@ Bipsi is linked by Bitsy on the "Friends of Bitsy Page" https://bitsy.org/friend
 And to me, this represents a lot of the beauty of these small tools and communities. There is remixing and collaboration instead of competition and litigation.   
 
 Can you imagine a world where Unity had a "Friends of Unity" page that linked to other engines and open source tools and extensions?
-
-This represents a lot of the beauty of these small and mostly open source tools and communities. 
 
 With bipsi, I'm making "Places from my dreams" for a small game jam.
 
