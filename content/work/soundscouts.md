@@ -6,5 +6,5 @@ image = "images/featured/SoundScouts.png"
 cover = ""
 featured = "true"
 externalUrl = "https://www.soundscouts.com"
-synopsis = "I lead the technology of this Award-wining hearing test that combines audiological principles with accesible gameplay"
+synopsis = "I lead the technology of this award-winning hearing test that combines audiological principles with accesible gameplay"
 +++

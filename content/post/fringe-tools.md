@@ -11,9 +11,9 @@ category = "blog"
 +++
 
 
-This post is an ongoing exploration of fantasy consoles, exotic game engines/tools and the communities around them. It is a journey of the space of game tools that embody the “unconventional mixed with practical” (Natalie Lawhead, 2019).
+This post is an ongoing exploration of fantasy consoles, exotic game engines/tools, and the surrounding communities. It is a journey of the space of game tools that embody the “unconventional mixed with practical” (Natalie Lawhead, 2019).
 
-After years of working on commercial projects and using game methodology in other fields, I am conceptualising this endeavor as an artistic and playful respite, unburdened (as much as I possibly can) from external motivations such as commercial plausibility and critical reception.
+After years of working on commercial projects and using game methodology in other fields, I am conceptualising this endeavor as an artistic and playful respite, unburdened (as much as I possibly can) from external motivations such as commercial plausibility or critical reception.
 
 For a super comprehensive list, check out Everest Pipkin's tool list: https://github.com/everestpipkin/tools-list. Otherwise, this piece is more about my personal experience as I navigate and use a small selection of them.
 
@@ -23,10 +23,10 @@ For a super comprehensive list, check out Everest Pipkin's tool list: https://gi
 
 "Limitation breeds creativity" is a phrase so often expressed that it may feel like a cliché.
 
-So yeah, the Arduboy handheld console only has two colours, a 128 x 64 pixel screen, 2.5 kbs of ram, and a tiny piezo speaker. 
+So yeah, the Arduboy handheld console only has two colours, a 128 x 64 pixel screen, 2.5 KBs of ram, and a tiny piezo speaker. 
 But what can those limitations really mean?
 
-It means very accessible development tools
+It means accessible development tools.
 It means giving the console and the community a strong personality.
 It means brilliant little games and experiences that educate and inspire.
 It means having fun.
@@ -45,7 +45,7 @@ https://community.arduboy.com/t/electrocardioground-fx/11952
 
 Other Open source Handheld systems: </br>
 https://community.arduboy.com/t/table-of-free-open-source-handheld-game-systems/9595 </br>
-https://github.com/oshaboy/awesome-indie-handhelds
+https://github.com/oshaboy/awesome-indie-handhelds</br>
 
 
 ![alt text](/images/post_media/image-2.png)
@@ -53,7 +53,7 @@ https://github.com/oshaboy/awesome-indie-handhelds
 ## TIC-80
 
 *there are secrets in between these crunchy pixels*
-*echoes of childhood washed ashore with the waveforms
+*echoes of childhood washed ashore with the waveforms*
 *let me wrap myself with this cozy world*
 *and create while I play, play while I create*
 
@@ -69,6 +69,9 @@ It seems like a clone at first, but it's open source, is a bit more customisable
 With it, I made "Matchbox Memories":
 *I love carrying worlds and memories in my pocket.*  
 
+You can play it here: </br>
+https://oddgoo.itch.io/matchbox-memories-volume-i
+
 ![Screenshot of Matchbox Memories](/images/post_media/matchbox_memories_cover.png)
 
 ## Uxn
@@ -77,13 +80,23 @@ With it, I made "Matchbox Memories":
 "If you wish to make an apple pie from scratch, you must first invent the universe", said Carl Sagan. 
 **Hundred Rabbits**' Rek and Devine seem to be doing just that.
 
+Uxn is a "personal computing stack" , a small virtual machine with its own programming language upon which they have built dozens of unique tools and games.
+
+This project stood out to me due to the sheer level of DIYness across the whole thing. And then I saw the story behind it:
+
+"We live and work aboard a ship called [Pino](https://100r.co/site/pino.html). Sailing around the Pacific Ocean made us realize how fragile the modern computing stack was. Living in remote uninhabited parts of the world has offered us a playground to learn how technology degrades beyond the shores of the western world."
+
+That's poetry!
+
+Read more about them here!:
+https://100r.co/site/about_us.html
+
+To imagine myself sailing with them, I installed the virtual machine and a few of the games and tools they have made.
 
 ![Oquonie](/images/post_media/image-4.png)
 Oquonie, a game for the Uxn system.
 
-
 ![Hundred Rabbits](/images/post_media/rabbits2.png)
-Hundred Rabbits
 
 ## bipsi
 
@@ -132,5 +145,10 @@ Similar to other tools showcased here, the limitations of the system are cozy an
 ## More links and inspiration
 
 Natalie Lawhead's Blog:
+
 https://www.nathalielawhead.com/candybox/the-wonderful-world-of-tools-made-by-small-teams-solo-devs-and-shareware-weird-beautiful-and-experimental-things-to-be-creative-in-an-analysis-on-building-for-approachability
+
+Itch.io's tool catalogue:
+
+https://itch.io/tools/top-rated
 
