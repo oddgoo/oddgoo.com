@@ -26,10 +26,10 @@ For a super comprehensive list, check out Everest Pipkin's tool list: https://gi
 So yeah, the Arduboy handheld console only has two colours, a 128 x 64 pixel screen, 2.5 KBs of ram, and a tiny piezo speaker. 
 But what can those limitations really mean?
 
-It means accessible development tools.
-It means giving the console and the community a strong personality.
-It means brilliant little games and experiences that educate and inspire.
-It means having fun.
+It means accessible development tools. </br>
+It means giving the console and the community a strong personality. </br>
+It means brilliant little games and experiences that educate and inspire. </br>
+It means having fun. </br>
 
 In the space of "Indie Consoles",  the Playdate tops the popularity charts , featuring its unique crank controller and super sleek design. But my heart was captivated by the Arduboy; it is a lot more accessible (read: cheaper), open source, and its limitations a tad sharper.
 
@@ -52,10 +52,10 @@ https://github.com/oshaboy/awesome-indie-handhelds</br>
 
 ## TIC-80
 
-*there are secrets in between these crunchy pixels*
-*echoes of childhood washed ashore with the waveforms*
-*let me wrap myself with this cozy world*
-*and create while I play, play while I create*
+*there are secrets in between these crunchy pixels* </br>
+*echoes of childhood washed ashore with the waveforms* </br>
+*let me wrap myself with this cozy world* </br>
+*and create while I play, play while I create* </br>
 
 The term "fantasy console" was coined by Pico-8's creator zep. There is already much that has been said about working with fun and limited interfaces, and what that does to creativity. zep himself has a wonderful talk about it called "PICO-8 and the Search for Cozy Design Spaces" :   https://www.youtube.com/watch?v=87jfTIWosBw
 
