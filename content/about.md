@@ -64,7 +64,7 @@ https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001jQHt
 **Whats next in tech?, Gaming technological innovations** <br>
 *2015*. Panel Discussion. Game ON, Vivid Sydney <br>
 
-**Sound Scouts - Testing the Range of Serious Games**
+**Sound Scouts: The hearing game**
 *2012*. Games for Change Australia & New Zealand Festival
 
 **Depict. A mobile game experiment** <br>
