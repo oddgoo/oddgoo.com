@@ -31,13 +31,20 @@ Other Projects:
 
 ### Talks and Presentations
 
-**Domains in Play. Game Design meets DDD** <br>
+**Fringe Game Craft: An Exploration of Fantasy Consoles and Exotic Tools** <br>
+*2024*. Digital Games Research Association.
+
+**Serenade: Celebrating games from the Fringes** <br>
+*2024*. Freeplay Angles. Melbourne, Australia.
+
+**Domains in Play: Game Design meets DDD** <br>
 *2024*. Domain-Driven Design Australia.
+https://www.youtube.com/watch?v=v-umuCXS3LI&t=1s
 
 **The Use and Potential of Games in learning processes** <br>
 *2022*. Online Presentation. University of Guadalajara
 
-**Applied Gamings: An Interactive Tour of the Uses and Potential of Games in Learning.** <br>
+**Applied Gaming: An Interactive Tour of the Uses and Potential of Games in Learning.** <br>
 *2022*. Full-day workshop. University of Guadalajara. XXIX Distance Learning Conference.
 
 **Sound Scouts - Testing the Range of Serious Games** <br>
@@ -56,6 +63,9 @@ https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001jQHt
 
 **Whats next in tech?, Gaming technological innovations** <br>
 *2015*. Panel Discussion. Game ON, Vivid Sydney <br>
+
+**Sound Scouts - Testing the Range of Serious Games**
+*2012*. Games for Change Australia & New Zealand Festival
 
 **Depict. A mobile game experiment** <br>
 *2009*. Sense of Wonder Night. Tokyo Game Show <br>
