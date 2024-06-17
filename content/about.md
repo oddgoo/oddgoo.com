@@ -38,7 +38,7 @@ Other Projects:
 *2024*. Freeplay Angles. Melbourne, Australia.
 
 **Domains in Play: Game Design meets DDD** <br>
-*2024*. Domain-Driven Design Australia.
+*2024*. Domain-Driven Design Australia. <br>
 https://www.youtube.com/watch?v=v-umuCXS3LI&t=1s
 
 **The Use and Potential of Games in learning processes** <br>
@@ -64,8 +64,8 @@ https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001jQHt
 **Whats next in tech?, Gaming technological innovations** <br>
 *2015*. Panel Discussion. Game ON, Vivid Sydney <br>
 
-**Sound Scouts: The hearing game**
-*2012*. Games for Change Australia & New Zealand Festival
+**Sound Scouts: The Hearing Game** <br>
+*2012*. Games for Change Australia & New Zealand Festival <br>
 
 **Depict. A mobile game experiment** <br>
 *2009*. Sense of Wonder Night. Tokyo Game Show <br>
