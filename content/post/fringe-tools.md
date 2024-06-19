@@ -111,7 +111,10 @@ And to me, this represents a lot of the beauty of these small tools and communit
 
 Can you imagine a world where Unity had a "Friends of Unity" page that linked to other engines and open source tools and extensions?
 
-With bipsi, I'm making "Places from my dreams" for a small game jam.
+With bipsi, I'm making "Places from my dreams" for a small game jam:<br/>
+https://oddgoo.itch.io/places-from-my-dreams
+
+This exploration of bipsi was inspired by haraiva's work: https://haraiva.itch.io/
 
 ## Retroachievements
 
