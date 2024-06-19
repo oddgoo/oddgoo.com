@@ -100,7 +100,7 @@ Oquonie, a game for the Uxn system.
 
 ## bipsi
 
-![Bipsi official screenshot](https://kool.tools/blog/media/bipsi-005.png)
+![alt text](/images/post_media/Cover Image (Recommended Size).png)
 
 https://kool.tools/bipsi/
 
@@ -115,6 +115,8 @@ With bipsi, I'm making "Places from my dreams" for a small game jam:<br/>
 https://oddgoo.itch.io/places-from-my-dreams
 
 This exploration of bipsi was inspired by haraiva's work: https://haraiva.itch.io/
+
+![Bipsi official screenshot](https://kool.tools/blog/media/bipsi-005.png)
 
 ## Retroachievements
 
