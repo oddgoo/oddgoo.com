@@ -13,7 +13,7 @@ category = "blog"
 
 This post is an ongoing exploration of fantasy consoles, exotic game engines/tools, and the surrounding communities. It is a journey of the space of game tools that embody the “unconventional mixed with practical” (Natalie Lawhead, 2019).
 
-After years of working on commercial projects and using game methodology in other fields, I am conceptualising this endeavor as an artistic and playful respite, unburdened (as much as I possibly can) from external motivations such as commercial plausibility or critical reception.
+After years of working on commercial projects and using game methodology in other fields, I am conceptualising this endeavor as an artistic and playful respite, unburdened (as much as I possibly can) from external motivations such as commercial plausibility or critical reception. These playful tools usually live in the “space of cultural and economic activity that includes hobbyists, artists, gamemakers with day jobs, (…) modders, and students” (Brendan Keogh, 2023). 
 
 For a super comprehensive list, check out Everest Pipkin's tool list: https://github.com/everestpipkin/tools-list. Otherwise, this piece is more about my personal experience as I navigate and use a small selection of them.
 
