@@ -27,12 +27,12 @@ Other Projects:
  - **Amberial**: Winner of several flash game contest in the late 2000's.  
  - **SimuSurg**: winner of the Australasian Serious Game Challenge, 2018,
  - **Depict**: Finalist at the 2009 Independent Game Festival's "Next Great Mobile Game" category
-
+ - 30 under 30 - Profile Honourable Mention by Develop Pacific
 
 ### Talks and Presentations
 
 **Fringe Game Craft: An Exploration of Fantasy Consoles and Exotic Tools** <br>
-*2024*. Digital Games Research Association.
+*2024*. DiGRA Guadalajara
 
 **Serenade: Celebrating games from the Fringes** <br>
 *2024*. Freeplay Angles. Melbourne, Australia.
@@ -70,6 +70,12 @@ https://www.acs.org.au/cpd-education/event-detail.html?eventId=7010o000001jQHt
 **Depict. A mobile game experiment** <br>
 *2009*. Sense of Wonder Night. Tokyo Game Show <br>
 
+### Publications
+
+**Hearing tests are just child’s play: the sound scouts game for children entering school.**
+Dillon, H., Mee, C., Moreno, J. C., & Seymour, J. (2018). 
+International Journal of Audiology, 57(7), 529–537. 
+https://doi.org/10.1080/14992027.2018.1463464
 
 ### Education
 
