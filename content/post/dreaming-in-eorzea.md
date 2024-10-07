@@ -13,7 +13,8 @@ category = "blog"
 
 ![FFXIV Screenshot 1](/images/blog/ffxiv/ffxiv_2.jpg)
 
-[This piece has been featured in Game Developer here: (https://www.gamedeveloper.com/design/dreaming-in-eorzea-thoughts-on-final-fantasy-xiv)[]
+This piece has been featured in Game Developer here:
+[https://www.gamedeveloper.com/design/dreaming-in-eorzea-thoughts-on-final-fantasy-xiv] (https://www.gamedeveloper.com/design/dreaming-in-eorzea-thoughts-on-final-fantasy-xiv)
 
 *We saw the first signs of the festival at the upper decks of Limsa Lominsa; it was our second visit, but we still felt like foreigners in this coastal city of ships, bastions and salty cods.*
 *"Welcome to the Moonfire Faire," a Chaperone said as he explained what this was all about. But it was hard to pay attention; the sun had just set and the fireworks were released. We stared at the sky and joined the spectacle with our smiles.*
