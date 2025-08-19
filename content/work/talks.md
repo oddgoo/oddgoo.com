@@ -1,7 +1,7 @@
 +++
 name = "Talks and Presentations"
 title = "Talks and Presentations"
-date = "2025-08=01T11:00:00+11:00"
+date = "2025-08-01T11:00:00+11:00"
 image = "images/featured/situated_love.jpg"
 cover = ""
 featured = "true"
