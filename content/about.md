@@ -29,7 +29,7 @@ Other Projects:
  - **Depict**: Finalist at the 2009 Independent Game Festival's "Next Great Mobile Game" category
  - 30 under 30 - Profile Honourable Mention by Develop Pacific
 
-### Talks and Presentations
+### Talks and Presentations {#talks-and-presentations}
 
 **Situated Love: A playable talk about the joy and magic of making small games for your friends.** <br>
 *2025*. Freeplay Angles. Melbourne, Australia.

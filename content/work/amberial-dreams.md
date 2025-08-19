@@ -9,7 +9,7 @@ externalUrl = "http://www.amberial.com"
 synopsis = "Play in a cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds"
 +++
 
-Play in a cosmical toybox packed with arcade platforming, rhythmical contraptions and colourful worlds.
+Play in a cosmic toybox packed with arcade platforming, rhythmical contraptions and colourful worlds.
 
 *Features*
 - Local Multiplayer (up to 8 people)
