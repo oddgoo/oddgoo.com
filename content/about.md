@@ -31,8 +31,11 @@ Other Projects:
 
 ### Talks and Presentations
 
+**Situated Love: A playable talk about the joy and magic of making small games for your friends.** <br>
+*2025*. Freeplay Angles. Melbourne, Australia.
+
 **Fringe Game Craft: An Exploration of Fantasy Consoles and Exotic Tools** <br>
-*2024*. DiGRA Guadalajara
+*2024*. SXSW Sydney (Australia) and DiGRA (Guadalajara, Mexico).
 
 **Serenade: Celebrating games from the Fringes** <br>
 *2024*. Freeplay Angles. Melbourne, Australia.
