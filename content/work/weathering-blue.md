@@ -6,5 +6,5 @@ image = "images/thumbnails/weathering_blue_thumbnail.jpg"
 cover = ""
 featured = "true"
 externalUrl = "https://www.weatheringblue.com"
-synopsis = "A game about about a nurse losing herself in the fog of burnout and slowly finding the way back. I'm supporting the development and design."
+synopsis = "A game by Heeny Ellen Yeo about about a nurse losing herself in the fog of burnout and slowly finding the way back. I'm supporting the development and design."
 +++
