@@ -1,4 +1,5 @@
 +++
+weight = 0
 name = "Weathering Blue"
 title = "Weathering Blue"
 date = "2025-05-20T11:00:00+11:00"
