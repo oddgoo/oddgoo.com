@@ -9,7 +9,7 @@ weight = 10
 <img src="../images/about/paddle.jpg" >
 </div><br>
 
-I am a Creative Developer and Game Designer with 15+ years of experience  experience in a wide range of digital award-winning projects.  From popular browser games, to physical installations involving full-body motion; from virtual reality experiences to playful educational ebooks. 
+I am a Creative Developer and Experience Designer with 20+ years of experience in a wide range of digital award-winning projects.  From popular browser games, to physical installations involving full-body motion; from virtual reality experiences to playful educational ebooks. 
 
 I am currently based in Sydney, Australia as the CTO of Sound Scouts since 2015, where I thrive by being in the intersection of art, technology and social impact.
 
@@ -23,13 +23,31 @@ Sound Scouts has received numerous awards, including:
 
 Other Projects:
 
+ - **Bird RPG**, Practice Track People's Choice. DiGRAA 2026.
  - **Amberial Dreams**: Honourable Mention at Freeplay 2019, and featured at AVCON 2018.  
  - **Amberial**: Winner of several flash game contest in the late 2000's.  
- - **SimuSurg**: winner of the Australasian Serious Game Challenge, 2018,
+ - **SimuSurg**: Winner of the Australasian Serious Game Challenge, 2018,
  - **Depict**: Finalist at the 2009 Independent Game Festival's "Next Great Mobile Game" category
  - 30 under 30 - Profile Honourable Mention by Develop Pacific
 
 ### Talks and Presentations {#talks-and-presentations}
+
+
+
+
+
+
+**PUT YOUR W___ IN MY T___.** <br>
+*2026*. FREAKON. Melbourne, Australia.
+
+**Applied Games. The story of Sound Scouts** <br>
+*2026*. Gaming in Health Industry Talks. UNSW Game Making Society. Sydney, Australia.
+
+**Connecting game design, playfulness, and improvised creativity.** <br>
+*2026*. AVANT HARDE DRIVE. Sydney, Australia.
+
+**Connecting game design, playfulness, and improvised creativity.** <br>
+*2025*. University of Sydney. Australia.
 
 **Situated Love: A playable talk about the joy and magic of making small games for your friends.** <br>
 *2025*. Freeplay Angles. Melbourne, Australia.

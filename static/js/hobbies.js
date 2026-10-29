@@ -3,14 +3,15 @@
 
  var hobbies = [
  	'Music',
+	'Improvised Theatre',
 	'Fantasy Consoles',
 	'Learning',
-	'Exploring',
 	'Art',
- 	'Teaching',
+ 	'Medium-bending experiences',
 	'The Cosmos',
  	'Tilemaps',
 	'Butterscotch',
+	'Performance',
  	'Drawing',
 	'Being Underwater',
  	'Taking Photos',
@@ -18,7 +19,7 @@
 	'The Poetics of Space',
  	'Making Sounds',
  	'Board games',
-	'Travelling',
+	'Traveling',
 	'Sweetened condensed milk'
 	 
  ];
